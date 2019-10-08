@@ -2,7 +2,7 @@
 prep for GitHub course on O'Reilly
 
 learning GitHub
-"commit" ==>  "saved changes"
+"commit" ===  "saved changes"
 
 about myself: 5' 9" 
 
